@@ -1,0 +1,29 @@
+body {
+  background-color: #1a1938;
+  box-sizing: border-box;
+  display: block;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  width: auto;
+}
+
+span {
+  cursor: pointer;
+  color: yellow;
+}
+
+.title {
+  margin: 50px;
+  font-weight: 800;
+  height: 400px;
+  align-items: center;
+  width: 100%;
+  color: white;
+}
+
+.paragraph {
+  color: white;
+}
